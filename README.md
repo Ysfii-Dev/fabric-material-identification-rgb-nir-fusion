@@ -1,8 +1,3 @@
-Bagus banget pilihannya — nama itu sudah sangat representatif untuk penelitianmu 👏
-Berikut **README.md** lengkap dan profesional untuk repositori `fabric-material-identification-rgb-nir-fusion`, dengan gaya akademik namun tetap jelas untuk pengguna GitHub atau reviewer riset.
-
----
-
 # 🧵 Fabric Material Identification using RGB–NIR Data Fusion and Deep CNN
 
 ### 📘 Project Title
